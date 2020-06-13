@@ -1,0 +1,882 @@
+﻿question,answer
+1 x 1,1
+1 x 2,2
+1 x 3,3
+1 x 4,4
+1 x 5,5
+1 x 6,6
+1 x 7,7
+1 x 8,8
+1 x 9,9
+2 x 1,2
+2 x 2,4
+2 x 3,6
+2 x 4,8
+2 x 5,10
+2 x 6,12
+2 x 7,14
+2 x 8,16
+2 x 9,18
+3 x 1,3
+3 x 2,6
+3 x 3,9
+3 x 4,12
+3 x 5,15
+3 x 6,18
+3 x 7,21
+3 x 8,24
+3 x 9,27
+4 x 1,4
+4 x 2,8
+4 x 3,12
+4 x 4,16
+4 x 5,20
+4 x 6,24
+4 x 7,28
+4 x 8,32
+4 x 9,36
+5 x 1,5
+5 x 2,10
+5 x 3,15
+5 x 4,20
+5 x 5,25
+5 x 6,30
+5 x 7,35
+5 x 8,40
+5 x 9,45
+6 x 1,6
+6 x 2,12
+6 x 3,18
+6 x 4,24
+6 x 5,30
+6 x 6,36
+6 x 7,42
+6 x 8,48
+6 x 9,54
+7 x 1,7
+7 x 2,14
+7 x 3,21
+7 x 4,28
+7 x 5,35
+7 x 6,42
+7 x 7,49
+7 x 8,56
+7 x 9,63
+8 x 1,8
+8 x 2,16
+8 x 3,24
+8 x 4,32
+8 x 5,40
+8 x 6,48
+8 x 7,56
+8 x 8,64
+8 x 9,72
+9 x 1,9
+9 x 2,18
+9 x 3,27
+9 x 4,36
+9 x 5,45
+9 x 6,54
+9 x 7,63
+9 x 8,72
+9 x 9,81
+"a,an",(하나의)    This is  a pie.   It is  an  apple.
+about,(~에관하여)    Tell me all  about  it.
+across,(~가로질러)  A butterfly flutters  across the yard.
+act,(행동)     You must be prompt to act.
+address,(주소)     Please note my new e-mail address .
+afraid,(두려워하여)    (I'm) afraid so.
+after,"(~후에)    After lunch, he retired to his study."
+afternoon,(오후)   It is a nice Sunday afternoon.
+again,(다시)   He is lost in the sauce again.
+age,(나이)    She is a girl of tender age.
+ago,(~전에)   I was dressed an hour ago.
+air,(공기)    I really hate the dirty air.
+airport,(공항)   The boy is at the airport.
+album,(사진첩)  The new album from god just came out.
+all,(모두)     Who is the prettiest of us all?
+along,(~을 따라서)  He walked along the side of a way.
+always,(항상)   He is always in a hurry.
+among,(~사이에서)    The car is among the trees.
+and,(그리고)   Put on your nightgown and go to bed.
+angry,(성난)   She was angry more than a little.
+animal,(동물)    A dog is a faithful animal.
+answer,(대답)   Answer him as you think fit.
+any,(어떤)   I hope that it doesn't invite any danger.
+apartment,(아파트)  My apartment is on the third floor.
+apple,(사과)    The woman is eating an apple.
+arm,(팔)     I have broken my arm.
+around,(~주위에)   The earth moves around the sun.
+arrive,(도착하다)   When does the next bus arrive?
+as,"(~같은,~로서) They were all dressed as clowns."
+ask,(묻다)     Where are you going?' she asked.
+at,(~에)   The ship is docking at the wharf.
+aunt,"(이모,고모)   My aunt is a very nice lady."
+autumn,(가을)   It is windy in the autumn.
+away,(떨어져)  She swam far away from the beach.
+baby,(아기)   A boy baby was born to them.
+back,(뒤에)   Do my buttons up in back.
+bad,(나쁜)   That's not too bad.
+bag,(가방)   Put your bag down on the desk.
+ball,(공)    The ball is next to the basket.
+balloon,(풍선)   The girl is holding a balloon.
+banana,(바나나)   Let's go to the banana woods.
+band,"(끈,악단)   I want to join the band, too."
+bank,(은행)     Is there a bank near here?
+base,(기초)    The base of the statue is cement.
+basket,(바구니)    The apples are in a basket.
+bath,(목욕)    The girl is taking a bath.
+be,(~이다)  I don't want to be late.
+beach,(해변)  The people are at the beach.
+bear,(곰)   He can't find his teddy bear.
+beautiful,(아름다운)   The music is beautiful.
+because,(때문에)  Because science fiction is very fun.
+become,(~이되다)   When did you become a Christian?
+bed,(침대)   The lamp is next to the bed.
+before,(~전에)    Where did you live before that?
+begin,(시작하다)   When will the road works begin?
+behind,(~뒤에)   The mouse is behind the hat.
+bell,(종)     She touched her finger to the bell.
+below,(~아래)    A couple is below the stands.
+bench,(긴의자)  There's no bench in the park.
+beside,(~곁에)     Is there a boy beside the trees?
+between,(사이에) The dog is between the cat and the boy.
+bicycle,(자전거)    A man is riding a bicycle. 
+big,(큰)    An elephant is a big animal.
+bird,(새)    There is no bird in the sky.
+birthday,(생일)    This very day is my birthday.
+black,(검정색)  Why not wear the black dress?
+blow,(불다)    The flags blow in the wind.
+blue,(푸른)    How much is this blue skirt?
+board,(판자)    It's a kind of board game.
+boat,(배)    Two people are in the boat.
+body,(몸)     She ached in body and mind.
+book,(책)     The book is next to the scissors.
+bottle,(병)     There is little ink in the bottle.
+bowl,(사발)    The fish bowl is on the chair.
+box,(상자)     The robot is next to the box.
+boy,(소년)    The boy is at the airport.
+bread,(빵)    The woman is baking the bread.
+break,(깨뜨리다)   We don't want to break tradition
+breakfast ,(아침밥)  Our breakfast hour is at seven o'clock.
+bridge,(다리)   How long is the Han River Bridge?
+bright,(밝은)    What a bright and breezy girl!
+bring,(가져오다)   Please bring me a cup of coffee.
+brother,(형제)    Be nice to your little brother.
+brown,(갈색)    Linda is wearing a brown shirt.
+brush,(솔)     I brush my teeth three times a day
+build,(건설하다)   This desk build up into wood.
+burn,(불타다)    Be careful not to burn it.
+bus,(버스)   The bus is turning the corner.
+busy,"(바쁜)    Thanks, but I am pretty busy."
+but,"(그러나)   I'd love to, but I feel too sleepy."
+butter,(버터)    Spread the butter on the bread.
+button,(단추)Push the power button on the TV.
+buy,(사다)   May I buy you some ice cream?
+by,(~옆에)   A brook streams by our house.
+bye,(안녕)     Good-bye.
+calendar,(달력)   The man is writing on the calendar.
+cake,(케이크)    This cheese cake is not sweet.
+call,(부르다)     I'll call a doctor.
+camera,(사진기)    The camera is on the computer.
+camp,(야영지)    Children are having fun at the camp.
+can,(할수있다)    Can I try on this jacket?
+candle,(양초)     There is a candle on the table.
+candy,(사탕)   Why do you eat so much candy?
+cap,(모자)   The boy is wearing a cap.
+capital,"(수도,대문자)    Paris is the capital of France."
+captain,(우두머리)    The man is the captain of the ship
+car,(자동차)    The men are riding in a car.
+card,(카드)    I'll send him a card tomorrow.
+care,"(걱정,돌보다)   I don't care what you say."
+carry,(나르다)   He is strong enough to carry the box.
+case,"(경우)  That’s often the case, but not always."
+cassette,(카셋트)  He paid over to the cassette.
+cat,(고양이)   The cat is next to the sofa.
+catch,(붙잡다)   Catch the ball on the rebound.
+ceiling,(천장)   This room has a low ceiling.
+center,(중앙)   In the center of downtown Denver.
+chair,(의자)    I want to buy an easy chair.
+chalk,(분필)   Bring me a piece of chalk.
+chance,(기회)    I thought I'd take a chance.
+change,(바꾸다)   Please note our change of address.
+cheap,(값싼)   They are as cheap as a television.
+cheese,(치즈)   This cheese cake is not sweet. 
+chicken,(닭)   Do you like pizza or chicken?
+child,(어린이)   What a worry the child is!
+chopstick ,(젓가락 )  They use chopstick to eat rice.
+church,(교회)    There is a church on the hill
+circle,(원)    The girl is drawing a circle.
+city,(도시)   I do not like living in the city.
+class,(학급)   How many people are there in a class?
+classmate,(동급생)    All of her classmates were very sad.
+clean,(깨끗한)  He decided to clean his room.
+climb,(오르다)   The hill is hard to climb.
+clock,(시계)   This clock is ten minutes fast.
+close,(닫다)   What time do you close today?
+clothes,(옷)  Most people had very few clothes.
+cloud,(구름)   Not a cloud is in sight.
+club,(클럽)   I'm a part of the tennis club.
+coat,(코트)   The boy is buying a coat.
+coffee,(커피)   There is a bug in my coffee!
+coin,(동전)   The boy is picking up a coin.
+cold,"(추운)   It's not cold today, is it?"
+color,(색깔)   The color is just so beautiful!
+come,(오다)   Please come back in a few minutes
+computer,(컴퓨터)  May I use this computer for a while?
+cook,(요리하다)   You know I'm a poor cook.
+cool,(시원한)   The weather was nice and cool.
+copy,"(사본,베끼다) This is a copy of a famous picture."
+corner,(모퉁이)  The bus is turning the corner.
+count,(세다)  Hold mouth shut for a count of ten.
+country,"(나라,마을) The country has a mania for soccer."
+course,(과정) The main course was roast beef.
+cousin,"(사촌)   Amy, this is my cousin, Tom."
+cover,(덮다)  Please put a cover over the food.
+cow,(암소)  A cow runs after the horse.
+crayon,(크레용)  The girl is throwing a crayon.
+cream,(크림)   May I buy you some ice cream?
+cross,(가로지르다)  Bring the blue flag to me.
+cry,(울다)   Don't cry.
+cup,(컵)  Please bring me a cup of coffee.
+curtain,(커튼) The carpet and curtain are a good match.
+cut,(자르다)  Cut the pie in half and enjoy it.
+dad,"(아빠,아버지)  My dad is in the hospital."
+dance,(춤추다)   I don't know how to dance.
+danger,(위험한)   I was warned of the danger.
+dark,(어두운)  It will be dark before long
+date,(날짜)  We haven’t set a date yet.
+daughter ,(딸)   You are not my daughter.
+day,"(낮,하루)  He sleeps by day and works by night."
+dead,(죽은)  Both brother and sister are dead.
+deep,(깊은)   Love is as deep as the ocean.
+dear,(존경하는)  You are so dear to my heart.
+desk,(책상)  There are four pencils on the desk.
+dial,(다이얼)   I don't get a dial tone.
+diary,(일기)   The diary was written by my sister.
+dictionary,(사전)   I have a desk top dictionary.
+die,(죽다)  I hope he will not die.
+dinner,(저녁)  This is a really great dinner.
+dirty,(더러운)  I really hate the dirty air.
+dish,(큰접시)   This dish does not wash well.
+do,(하다)  Students want to do many things.
+doctor,(의사)  My uncle is a famous doctor.
+dog,(개)  My dog nosed out my lost bag.
+doll,(인형)  The doll is behind the desk.
+dollar,(달러)  A million dollar is a mint of money.
+dolphin,(돌고래)  A dolphin isn't afraid of men.
+door,(문)  The skirt caught in a door.
+down,(아래에)  We met down by the river.
+draw,(그리다)  Draw a picture true to nature.
+dream,(꿈)  My dream is to become a lawyer.
+dress,(드레스)  How do I look in this dress?
+drink,(마시다)  Would you like something cold to drink?
+drive,(운전하다)  You must not drive a truck here.
+drop,"(떨어지다,방울)  She spilled a drop of water."
+drum,(북)   The man is beating a drum.
+dry,(마른) Please dry yourself with this towel.
+duck,(오리)  We are looking at the duck.
+ear,(귀)  He is deaf of one ear.
+early,"(일찍)  Early to bed, early to rise."
+earth,(지구)  The earth travels round the sun.
+east,(동쪽)The sun rises in the east.
+easy,(쉬운)  That work is very easy as it seems.
+eat,(먹다)  What did you eat for lunch?
+egg,(계란)  I don't want to touch our nest egg.
+empty,(텅빈)  There are many empty seats in the room.
+end,(끝)  The holidays are drawing to an end.
+engine,(엔진)  Smoke is coming out of the engine.
+enjoy,"(즐기다)  However, I did not enjoy it."
+enough,(충분한)  I don't have enough money to buy it.
+eraser,(지우개)  How many erasers do you have?
+evening,(저녁)  It was such an exciting evening.
+every,"(모든,모두의) Every cartoon begins with an idea."
+example,"(예,보기)  She is a shining example to us all."
+excellent,(뛰어난)  I think it really is excellent.
+excite,(흥분시키다)  It's a very exciting dance game.
+excuse,(용서하다)Please excuse me for being careless.
+exercise,"(연습,운동)  She likes to walk for exercise."
+eye,(눈)  He is blind in one eye.
+face,(얼굴)  I hate to face him this morning.
+fact,"(사실)  Right or not, it is a fact."
+fair,(공정한)  I want to receive fair treatment.
+fall,"(가을,떨어지다)  Don't you love Seoul in the fall?"
+family,(가족)  A family lives on the floor above.
+far,(멀리떨어진)  I live far away from home.
+farm,(농장)  He worked hard on his farm.
+fast,(빠른)  This clock is ten minutes fast.
+fat,(쌀찐)  Who's that fat man over there?
+famous,(유명한)  My uncle is a famous doctor.
+father,(아버지)  I want to be diligent like my father.
+feel,"(느끼다)  At this time of night, I feel so alone."
+few,(다소양이적은)  He will be back in a few days.
+field,"(들판,경기장)  The farmer works in the field."
+fight,(싸움)  I had a fight with my wife again.
+fill,(채우다)  Fill a bowl with ice water.
+film,(필름)  The film was shot in France.
+find,(찾다)  I can't find the down escalator.
+fine,"(좋은,맑은)  The weather is fine. "
+finger,(손가락)  I caught my finger in the door.
+finish,(끝내다)  When will you finish your report?
+fire,(불) Would you like help with the fire?
+fish,"(고기,낚시하다)  The fish bowl is on the chair."
+fix,(고치다.고정시키다.)  I think we can fix that.
+flag,(깃발)  The man is raising the flag.
+floor,"(마루,바닥)  I'd like to sweep the floor."
+flower,(꽃)  That flower shop is too expensive.
+fly,"(날다)  “I’ll teach you how to fly,” says the fox."
+follow,(뒤를따르다)  I don't follow the trends in fashion.
+food,(음식)  I hope the food is nice.
+fool,(바보)  He is the biggest fool on earth.
+foot,(발)  I'm sorry that I stepped on your foot.
+for,"(~을위하여,~동안)  She fell ill for a month."
+forget,(잊다)  Don't forget to write the letter.
+fork,"(포크)  Can I have another fork, please?"
+free,(자유로운)  Are you free for lunch today?
+fresh,(신선한) There will be a fresh wind from south.
+friend,(친구)  A friend in need is a friend indeed.
+from,(-부터) The airport is some distance from here.
+front,"(앞,정면)  He is at the front door."
+fruit,(과일)  The woman is shopping for fruit.
+full,(가득찬)  The basket is full of apples.
+fun,"(즐거움,재미)  The party is a lot of fun."
+game,"(놀이,경기) I'm watching a baseball game on TV."
+garden,(정원)  The man is in the garden.
+gas,"(가스,휘발유)  This car uses a lot of gas"
+gate,(문)   There is a young boy at the gate.
+gentle,(온화한)  He is also smart and gentle.
+get,"(얻다,받다)  I didn't get the money back."
+girl,(소녀)  The girl is pushing the boat.
+give,"(주다)  Give me a few more minutes, please."
+glad,(기쁜)  I'm glad to meet you.
+glass,"(유리,컵)  Would you pour me a glass of water?"
+glove,(장갑)  The boy is wearing a glove.
+go,"(가다)  Cold or no, we'll go skiing."
+god,"(신,하느님)  Do you ever pray to God?"
+gold,(금)  This crown is made of gold.
+good,(좋은)  That smells good! What is it?
+grandmother ,할머니  Her grandmother is hard of hearing.
+grape,포도)  These grapes taste sweet and sour.
+grass,"(풀,잔디)  People are jumping on the grass."
+gray,(회색)  I feel blue when the sky is gray.
+great,(큰)  He became a great man later on.
+green,(녹색)  We are surrounded with green trees.
+ground,"(땅,기초)  There is a wallet on the ground."
+group,(단체)  The group was ready for off.
+grow,(성장하다)  The roots of trees grow in the earth
+guitar,(기타 )  A man is playing a guitar on a beach.
+hair,(머리카락)  I'd like a different hair color.
+half,(절반)   He is half man and half beast.
+hall,"(회관,넓은방) The hall was crowded with people."
+hamburger,(햄버거)  The man is eating a hamburger.
+hand,(손)  The boy shot his hand out.
+handle,(손잡이)  The handle is on the grass.
+happen,(발생하다)  What time did the accident happen?
+happy,(행복한)  The rich are not necessarily happy.
+hard,"(단단한,열심히)  He worked hard on his farm."
+hat,(모자)  The mouse is behind the hat.
+hate,"(미워하다,싫어하다 ) I hate to wear this thick coat."
+have,(가지고있다)  I have money more and yet more.
+he,"(그,남자)  He said he wanted to be alone."
+head,(머리)  She fell and hurt her head.
+hear,(듣다)  Did you hear the news today?
+heart,"(마음,상징)  I love Tom in my heart."
+heavy,(무거운)  The heavy box doesn't move an inch.
+hello,(여보세요)  Hello. May I speak to Tom?
+help,(돕다)  I think I need some help.
+hen,(암닭)  A black hen lays white eggs.
+here,(여기에서)  We are safe from the rain here.
+hi,"(안녕하세요!)  Hi, Andrew. How was your trip?"
+hide,(숨기다  Do not hide and show yourself.
+high,(높은)  Isn't the price a bit high?
+hiking,"(하이킹,도보여행) It was a nice day for hiking."
+hill,(언덕)  The hill has a pine forest.
+hit,(때리다)  I hit the table edge on.
+hold,(잡다)  We clapped hold of the robbers.
+hole,(구멍)  A mouse is sleeping in the hole.
+holiday,(휴일)  A national holiday falls on Sunday.
+home,(집)  Do you need a ride home?
+hope,(희망)  My hope is using the sea.
+hose,(호스)  The man is using a hose.
+horse,(말)  Do you like riding a horse?
+hospital,(병원)  The dog is across from the hospital
+hot,(뜨거운)  Mix soda with honey and hot water.
+hotel,(호텔)  Which hotel are you staying at?
+hour,(시간)  Please call back in an hour.
+house,(집)  I was looking for the key to my house.
+how,(어떻게)  Sure. How do you want it?
+hundred,(백(100))  Few live to be one hundred years old.
+hungry,(배고픈)  I am hungry and thirsty too.
+hurry,(서두르다)  He is always in a hurry.
+hurt,(다치게하다)   The dog seems to be hurt.
+I,(나)   I decided I would leave tomorrow.
+ice,(얼음)  He wants to eat some ice cream.
+idea,(생각)  A happy idea flashed on me.
+if,(만약)  Please let me know if you'll be late.
+ill,(병든)  She fell ill for a month.
+in,"(~속, -안에)    The girl is in the kitchen."
+ink,(잉크)  There is little ink in the bottle.
+interest,"(흥미,관심)  I have a lot of interest in English."
+into,(~속으로)  The woman is pouring milk into a pan.
+introduce,(소개하다)  Let me introduce my brother to you.
+island,(섬)  He was landed on a lonely island.
+it,(그것)  It depends on what it is.
+job,(직업)  I'm sick and tired of my job.
+join,"(가입하다)  I want to join the band, too."
+juice,(주스)  Save the juice in a bowl.
+jump,(뛰어오르다)  Do you want a ride? Jump in.
+jungle,(밀림지대)  They live deep in the jungle.
+just,"(오직,겨우)  We just met a year ago."
+keep,(지키다)   This will keep as long as a week.
+key,(열쇠)  I am looking for my key.
+kick,(차다)  Kick this ball as hard as you can.
+kid,(아이)  Nobody can stop my kid brother.
+kill,"(죽이다)  By my faith, I didn't kill him."
+kind,"(친절한,종류)  She is a very kind person."
+king,(왕)  The king put on his gold crown.
+kitchen,(부엌)  The man is in the kitchen.
+knee,(무릎)  I have a pain in the knee.
+knife,(칼)  This knife is helpful in many ways.
+knock,(두드리다)  She heard a knock on the window.
+know,(알다)  I don't know how to dance.
+lady,(숙녀)  My aunt is a very nice lady.
+lake,(호수)  There are boats on the lake.
+lamp,(등불)  There is a lamp on the desk
+land,(땅)  People grow food on the land.
+large,"(큰,넓은)  Pour corn flakes into large bowl."
+last,(마지막)  This is the last concert of the season.
+late,(늦은)  I don't want to be late for work.
+laugh,"(웃다)  You love to laugh, don't you?"
+lead,(인도하다)  He is well able to lead the people.
+leaf,(잎)  Trees in summer are in leaf.
+learn,(배우다)  It is never too late to learn.
+leave,"(떠나다)  Yes, I plan to leave tomorrow."
+left,(왼쪽)  The library is on your left.
+leg,(다리)  The shark ate off the man's leg.
+lesson,(학과)  Today’s lesson is about the carrots
+let,(허락하다) Let me off anywhere around here.
+letter,(편지)  The door is referred to in the letter.
+library,(도서관)  The library is on your left.
+lie,"(눕다,거짓말하다)  She told a lie, didn't she?"
+light,(빛)  Plants imbibe light from the sun.
+like,(좋아하다)  I don't like it at all.
+line,"(선,줄)  Let's line up and go to lunch."
+lion,(사자)  The lion is a beast of prey
+lip,(입술)  He has a huge lower lip.
+list,(목록)  Your names are on a list.
+listen,(듣다)  I listen to English tapes every day.
+little,(작은)  My leg is a little sore.
+live,"(살다)  One should eat to live, not live to eat."
+long,(긴)  It is more than 7 minutes long.
+look,(바라보다)  I will look like a fool.
+lose,(잃다)  I'd rather lose money than a friend.
+lot,(많음)  They use a lot of water.
+loud,(소리가 큰)  She let out a loud sneeze.
+love,(사랑하다)  Do you love music like I love music?
+low,(낮은)  Cook over low heat until melted.
+luck,(행운)  Would you put it down to luck?
+lunch,(점심식사)  What did you eat for lunch?
+ma'am,"(아주머니, 부인) Sorry, ma'am. "
+mad,"(미친)  The doctor was stark, staring mad."
+mail,"(우편)  No, I sent an e-mail earlier."
+make,(만들다)  That sounds great. I'll make a salad.
+man,"(사람,남자)  I wish I were a man."
+many,(많은)  There are many at the party.
+map,(지도)  The woman is consulting her map.
+march,"(행진,3월)  A shop  have a spring sale in March."
+market,(상점)  The next market is on the 10th.
+marry,(결혼하다)  He is mad to marry her.
+matter,"(문제)  Be the matter what it may, ..."
+may,"(~해도좋다,5월)  The rest of you may go home."
+meat,(고기)  Don't feed the ducks with meat.
+medal,(메달)  This medal is to honor the winner.
+meet,(만나다)  I'm really honored to meet you !
+melon,(멜론)  Place the melon chunks in a bowl.
+meter,(미터)  The trees stand at intervals of one meter.
+middle,(한가운데)  The rope is slack in the middle.
+milk,(우유)  Add the milk and stir well.
+million,(100만)  A million dollar is a mint of money.
+minute,"(분,순간)  Wait a minute,"
+mirror,(거울)  He is looking in the mirror.
+Miss,"(~양,호칭)  Miss Susan Brown is 25 years old."
+model,(모형)  The model airplane is on sale.
+mom,(엄마) The pants were ironed by my mom. ( mommy)
+money,(돈)  Money is used to bait the hook.
+monkey,(원숭이)  A monkey has a long tail.
+month,"(달,개월)  We play with the team every month."
+moon,(달)  The moon in the sky is on the wane.
+morning,(아침)  He was full of prunes this morning.
+mother,(어머니)  The nun was a mother to orphans.
+mountain,(산)  Houses straggle at the foot of the mountain.
+mouth,(입)  I rinse my mouth and spit out the water.
+move,(움직이다)  She could not move in fear and trembling.
+movie,(영화)  The movie has tugged at my heartstrings.
+Mr.,(-씨)  Ms.여자. Were you able to talk to Mr. Silver?
+Mrs.,(~여사)  Please don't address me as Mrs.
+much,(많은)  Why did you drink so much?
+music,(음악)  This music dances him off his feet.
+must,(해야한다)  One must reap what one has sown.
+name,(이름)  What's the name of this sport?
+narrow,(좁은)  Do you think I should narrow it down?
+near,(가까운)  We overtook his car near the city hall.
+neck,"(목)  When I touch my neck, it hurts. OUCH!"
+need,(필요하다)People need calcium to have strong bones.
+never,(결코~않다)  These gears were never out of mesh.
+new,(새로운)  Did you finally move into your new house?
+news,(뉴스)  She is not fussed about your news.
+next,(다음의 )  The squirrel is next to the tree.
+nice,"(좋은)  The weather is nice, isn't it?"
+night,(밤)  The gambler scooped the pool that night.
+noisy,(시끄러운)  You are so noisy.
+noise,(소음)  I was frightened at the noise.
+north,(북쪽)  The wind sits in the north.
+nose,(코)  An offensive smell greeted my nose.
+not,(아니다)  I do not care a snap.
+note,(공책)  Where did you buy this notebook?
+now,(지금)  I am my own boss now.
+number,(숫자)  Deposit a dime and dial your number.
+nurse,(간호원)  She expects to qualify as a nurse.
+o'clock,(~시 정각)  I’ll pick you up at 7 o’clock.
+of,(~의)   Love of money is the root of all evil.
+off,"(떨어진,끄다)  The remote region is off the map."
+office,(사무실)   The office is not far from here.
+often,"(흔히,종종)   I often hang out in coffee shops."
+oh,"(오!)   Oh, he is very tall and handsome."
+oil,(기름)   The oil is used up. or We are out of oil.
+okay,"(좋아) Okay, it sounds easy to understand."
+old,(늙은)  The old lady was evicted without a bean.
+on,(~위에)  The ballpoint pen is on the table.
+once,"(한번)  Add tofu and fry for 1 minute, turning once."
+only,(오직)  He was clad only in his underwear.
+open,(열린)  The data file failed to open.
+or,(또는)  The fog lifted. or The mist cleared away
+orange,(오렌지)  Drop in orange and lemon peel.
+other,(다른)  Love is eagerly turning the other cheek.
+out,(밖에)  He elbowed her out of the way.
+over,(~위쪽에)  The flag flutters  over a castle.
+page,(쪽)  Look at the pictures on page 229.
+paint,(칠하다)  You need to paint the walls white.
+pair,(짝)  The man is buying a pair of shoes.
+pants,(바지)  He is putting on his pants.
+paper,(종이)  Would you bring me some more paper?
+pardon,(용서하다)  He went to ask for pardon.
+parent,(부모)  He believes he can be a good parent.
+park,(공원)  There's no bench in the park.
+party,(파티)  It was a really neat party.
+pass,"(통과하다,지나가다 ) Yes, pass the park on the left."
+pay,(지불하다)  Do you want to pay with cash instead?
+peace,(평화)  The dove is a figure of peace.
+pear,(배)  I like apples better than pears.
+pen,"(펜,만년필)  There is a pen on the book."
+pencil,(연필)  The pencil is under the table.
+people,(사람들)  The people are in the hospital.
+piano,(피아노)  This piano is older than God.
+pick,"(따다,줍다)  Please, pick it up for me."
+picnic,(소풍)  We are having a picnic tomorrow.
+picture,(그림)  The girl is coloring the picture.
+piece,(조각)  Top each piece with a slice of cheese.
+pig,(돼지)  We are looking at the pig.
+pilot,(조종사)  I want to be a pilot and see many countries.
+person,(사람)  She is a very kind person.
+pine,(소나무)   This pine tree has a history.
+pink,(분홍)  Every pig is pink include out one.
+pipe,"(파이프,관)  The man is lifting a pipe off the street."
+place,(장소)  They investigate a place of crime.
+plan,(계획)  My plan is just plain and simple.
+plane,(비행기)  I don't want to miss my plane.
+plant,"(식물, 공장)  Sunlight is needed for plant growth."
+play,(놀다)  Many little girls play with dolls.
+please,"(기쁘게하다,제발)  Please bear a hand with me"
+pocket,(주머니)  You should button into your pocket.
+point,"(점수,요점)  Let me just point out one thing."
+police,(경찰)  He is in trouble with the police.
+pool,(수영장)  They're relaxing in an indoor pool.
+poor,(가난한)  Do not disdain him because he is poor.
+post,(우편)  It’s across from the post office.
+poster,(포스터)   What should be on the poster?
+potato,(감자)   The potato is native to America.
+practice,(연습하다)  I think I'll practice some more.
+present,"(현재,선물)   Is this puny thing my birthday present?"
+pretty,"(예쁜, 매우)   The bit of fluff was very pretty."
+print,(인쇄하다)   Please print this roll of film.
+problem,(문제)  What was the problem with that shipment?
+pull,"(끌다)  Pull the chain, and the water flushes."
+push,(밀다)   Don't push me so much. or Stop shoving.
+put,(놓다)  Put the cup on the bedside table.
+queen,(여왕)  The queen was at the helm in the regime
+question,(질문)  I was dazed at his abrupt question.
+quick,(빠른)  He is ever quick to respond.
+quiet,"(조용한)   In the hell's name, be quiet."
+radio,(라디오)   He grooved to the sounds of the radio.
+rain,(비)   There is no sign of the rain ceasing.
+rainbow,(무지개)   A rainbow hangs in the sky.
+read,(읽다)  Read two of the three books at fewest.
+ready,(준비가 된)  The buds are just ready to burst.
+real,"(실제,정말)  The movie was a real bomb."
+record,(기록하다)  There is no record of the payment.
+red,(빨강)  he streets were red in the dusk.
+remember ,(기억하다) I can't remember the film title.
+repeat,(반복하다)  Do I need to repeat the test?
+rest,(휴식)  Carved on his headstone is 'Rest in Peace.'
+restaurant ,(식당)  The Sunflower is the name of the restaurant.
+return,(되돌아가다)  Thank you. I'll return it next week
+ribbon,(리본)  The girl is tying the ribbon to the balloon.
+rice,(쌀)  Ten days' ration of rice was distributed.
+rich,(부유한)  The rich guy surrendered to his bail.
+ride,(타다)  Do you need a ride home?
+right,"(오른쪽,옳은)  The waiter will be right with you."
+ring,"(반지,울리다)  The shop fronts for a narcotics ring."
+river,(강)  There are barges at every turn of the river.
+road,(길)  The road jogs to the left there.
+robot,(로보트)  The robot is next to the box.
+rock,(바위)  Water springs[gushes] up from the rock.
+rocket,(로켓)  What time will the rocket be launched?
+roll,(구르다)  Roll in confectioner's sugar when cool.
+roof,(지붕)  The rain is pattering on the roof.
+room,(방)  The room is littered with scraps of paper.
+rose,(장미)  The rose is the prettiest flower in my garden.
+round,(둥근)  It's as round as a big dish.
+ruler,(자)  The man is writing on his ruler.
+run,(달리다)  He runs as fast as you (run).
+sad,(슬픈)  All of her classmates were very sad.
+safe,(안전한)  This toy is safe as anything.
+salt,(소금)  Do not add salt or water.
+salad,(샐러드)  The man is putting oil on the salad.
+same,(같은)  Which two dams are the same age?
+sand,(모래)  They are lying on the sand.
+say,(말하다) Say hi to your sister for me.
+school,(학교)  The school is in his own backyard
+score,(점수)  My score will be improved by gradation.
+sea,(바다)  The sea is swelling. 
+season,(계절)  Winter is the wettest season of the year.
+seat,"(의자,좌석)  The guider showed me into the seat."
+see,(보다)  I never ever want to see you again.
+sell,(팔다)  I managed to sell my car.
+send,(보내다)  Do we need to send in reinforcements?
+service,(봉사하다)   I like the room service the most.
+set,(놓다)  She set a clock but she didn't wake up.
+shall,(~일것이다)  You shall not be the loser by it.
+shape,(모양)  The table is oval in shape.
+she,(그녀)  She waved a salute as she left.
+sheep,(양)  The shepherd boy cast loose his sheep.
+sheet,"(시트,한장)  Place sticks on a large cookie sheet."
+ship,(배)  The ship is docking at the wharf.
+shirt,(셔츠)  He is wearing a blue shirt.
+shoes,(구두)  The girl is looking at her shoes.
+shoot,(쏘다)  I didn’t shoot or catch it.
+shop,(가게)  I live in a pet shop.
+short,(짧은)  Those pants look too short for you.
+shoulder   ,(어깨)  I have an ache in the left shoulder.
+shout,(외치다)  She gave a shout of joy.
+show,"(보이다,쇼 )  So I wanted to do a funny show."
+shower,"(소나기,샤워)  I was caught in a shower."
+shut,"(닫다)  When the wind blew, the door swung shut."
+sick,(아픈)  My youngest sister is on the sick list.
+side,"(옆,측면)  A woman dug her elbow into my side."
+sign,"(기호,신호,서명)  Please sign and seal an entry."
+silver,"(은)  Gold, silver and copper are elements."
+sing,"(노래하다)   In time, swans forgot how to sing."
+sir,"(~님,~씨)  I'm sorry, sir. We don't serve your kind."
+sister,(자매)  Say hi to your sister for me.
+sit,(앉다)  I'll sit in the front seat.
+size,(크기   suitcases are all the same size.
+skate,(스케이트)  Don't let your child skate on the street.
+skirt,(치마)  The skirt caught in a door.
+sky,(하늘)  The moon in the sky is on the wane.
+sleep,(잠자다)  I need some sleep right now.
+slide,(미끄러지다)  The drawers slide in and out easily.
+slow,(느린)  Your watch is five minutes slow.
+small,(작은)  Hyenas feed on small dead animals.
+smell,(냄새나다)   I smell gas.
+smile,(웃다)   A smile rested on her lips.
+smoke,(연기)  The room is filled with smoke
+snow,(눈)  Don't you have much snow in winter?
+so,(그래서)  So I wanted to do a funny show.
+soap,(비누)  I could use a bar of soap.
+soccer,(축구)  It is the World Cup soccer contest.
+sock,(양말)  There is a hole in his sock.
+soft,(부드러운)  I like a really soft mattress.
+some,(약간의)  Are there some apples in the refrigerator?
+son,(아들)  The son thinks soccer is more important.
+song,(노래)  The song swept over my soul.
+soon,(곧)  The man will skip it soon.
+sorry,"(슬픈,유감의)  I am sorry to hear that."
+sound,(소리)  The sound goes on and off.
+soup,(스프)  Hold the onion from the soup.
+south,(남쪽)  He drove his car down south.
+space,"(공간,우주)  No space for parking my car."
+speak,(이야기하다)  She is too shy to speak.
+speed,(속력)  The train was gradually picking up speed.
+spell,(철자) Please tell me how to spell that word.
+spend,(소비하다)  People have more money to spend.
+spoon,(숟가락)  Use this spoon to help the gravy.
+sports,(운동경기)  Soccer is one of the most popular sports.
+spring,"(봄,용수철)  I think spring is in the air."
+square,(정사각형)  The cave room is a great square.
+stair,(계단)  The man is waiting on the stair.
+stamp,"(우편, 우표)  The stamp is a special edition."
+stand,(서다)  Don't stand there looking like a fool.
+star,(별)  A man is wishing on a star.
+start,(시작하다) The movie will start in half an hour.
+station,(정거장)  I’ll walk you to the station.
+stay,(머물다)  Can you stay a little longer?
+steam,(증기)  These engines are driven by steam.
+step,(한걸음)  I am one step closer to paradise.
+stick,(막대기)  He did dot at me one with a stick.
+stone,(돌)  This stone is not worth a dump.
+stop,(멈추다)   I can't stop sneezing.
+store,(가게)  The people are in the toy store.
+storm,(폭풍우)  They are scared by the storm.
+story,(이야기) I want to tell you a story.
+stove,"(스토브,난로)  When can you deliver the stove?"
+straight,"(곧은,똑바로)   I came straight from the office."
+strange,"(이상한,낯선)  A strange noise broke his sleep."
+strawberry,(딸기)  The strawberries are on the table.
+street,(거리)  I hope to visit that street sometime.
+strike,(치다)  Strike while the iron is hot.
+strong,(강한)  I like a woman to be strong.
+student,(학생)  Each student has his own desk.
+study,(공부하다)  I am too tired to study.
+stupid,(어리석은)  I'm not so stupid as you think.
+subway,(지하철)  Can I find a subway nearby here?
+sugar,(설탕)  Do you use sugar in your coffee?
+summer,(여름)  The summer sales are on now.
+sun,(태양)  The sun is smaller than the moon.
+supermarket ,(슈퍼) I went to the supermarket yesterday.
+supper,(저녁식사)  I drink at supper every day at home.
+sure,(확실한)   A sure cure for the blues.
+surprise,(놀라운)  A look of surprise came over his face.
+sweater,(스웨터)  The boy is putting on a sweater.
+sweet,(달콤한)  These grapes taste sweet and sour.
+swim,"(수영하다)   I can swim, but not very well."
+swing,(흔들리다)  She has a slight swing in her walk.
+switch,(스위치)   Would you please kick the switch on.
+table,"(식탁,탁자)  The towels are on the table."
+take,"(잡다,가져가다)  I thought I'd take a chance."
+talk,(말하다)  I don't want to talk to him.
+tall,(키가큰)  ]Lisa is as tall as I am.
+tape,(테이프)  What's the price of this video tape?
+taste,(맛보다)  This food has very little taste.
+taxi,(택시)  The taxi is diriving down the street.
+tea,(차)  Why don’t you join me for a cup of tea?
+teach,(가르치다)  Schools teach reading in the first grade.
+team,(팀)  Our team has plenty of fans.
+telephone,(전화기)  The telephone is on the table.
+television,(텔레비전)  We watched the game on television.
+tell,(이야기하다)  You can tell the truth before me.
+temple,(절)  This temple looks hoary in everything.
+tennis,(테니스) like playing tennis and skiing.
+test,(시험)  I failed my driver's test today.
+than,(~보다)  The sun is smaller than the moon.
+thank,"(감사하다)  Thank God, the war is over."
+that,(저것)   What is that?
+the,(그)  The girl is in the kitchen.
+then,(그때)  I think we can let you know by then.
+there,(거기에)  We spent about ten days there.
+they,(그들)  They use a lot of water.
+thick,(두꺼운)  I don't like it too thick.
+thin,(얇은)   Or use very thin sliced bread.
+thing,(~것)  I will not do such a thing.
+think,"(생각하다)  Actually, I think she's pretty cool."
+thirsty,(목마른)  I am hungry and thirsty too.
+this,(이것)   This is a pencil.
+thousand,(천(1000))  I want five thousand won discounted.
+through,(~를 통해)  The road runs through the forest.
+throw,(던지다)  We also throw away iron and steel.
+ticket,(표)  Is there that kind of ticket?
+tie,(매다)  He is not wearing a tie.
+tiger,(호랑이)  A tiger has a long tail.
+till,(~까지)  Let's wait till the rain stops.
+time,(시간)  Sorry to eat up your time.
+tired,(피곤한)  The man is a bit tired.
+to,"(~으로,~까지)  I want to speak to you on business."
+today,(오늘)  We had a pop quiz today.
+together,(함께)  Put it all together and eat.
+tomato,(토마토)  I have a tomato and an orange.
+tomorrow,(내일)  We have a quiz tomorrow morning.
+tonight,(오늘밤)  Will you house-sit for me tonight?
+too,"(또한)  They asked a lot of questions, too."
+tooth,(이)  The tooth hurts when I tap it.
+top,(꼭대기)  We reached the top in first dash.
+touch,(만지다)  Don't touch that penny!
+town,(마을)  He is a newcomer in this town.
+toy,(인형)  He looks in the toy box.
+train,"(훈련,기차)  The train is due at six thirty."
+travel,(여행하다)  I want to travel around the world.
+tree,(나무)  The boy is climbing a tree.
+trip,(여행)  How was your trip to Japan?
+truck,(화물차)  The truck is racing the car.
+true      ,"(참된,진짜의)  I don’t believe in true love."
+try,"(노력,시도하다)  Would you like to try it on?"
+tulip,튤립   Her code name was Tulip.
+turn,(돌다)  Turn left at the next corner.
+twice,(두번)  This is twice as long as that.
+umbrella,(우산)  This is really and truly my umbrella.
+uncle,(삼촌)  My uncle is a famous doctor.
+under,(~아래에서)  The dog is under the desk.
+understand  ,"이해하다   Okay, it sounds easy to understand."
+until,(~까지)  Don't ever leave me until I die.
+up,(위에)   Stand up!
+use,(사용하다)  They use a lot of water.
+usual,"(보통의,평소의)  He got up earlier than usual."
+vacation,(휴가)  When are you leaving for your vacation?
+vegetable,(야채)  I prefer a vegetable diet to meat food.
+very,"(대단히,몹시)   I am very sorry."
+video,(비디오)  I'm turning on the video now. Hurry up.
+village,(마을)   A village has grown into a large town.
+visit,(방문하다)   You can visit me whenever you want.
+violin,(바이올린)   She does not like the violin.
+wait,(기다리다)   Let's wait till the rain stops.
+wake,(잠이깨다)  He is trying to wake up her.
+walk,(걷다)   It's a nice day today. Let's walk.
+wall,(벽)   The clocks are on the wall.
+want,(원하다)  Students want to do many things.
+war,(전쟁)  He was killed in the war.
+warm,(따뜻한)  Some colors like yellow feel warm.
+wash,"(씻다)  Jane, wash your hands before eating."
+waste,(낭비하다)  It's just waste of time and money.
+watch,(보다)   I want to watch it again.
+water,(물)   I need a cup of water.
+way,(길)   The lady showed the way to us.
+we,"(우리)  If we chip in, we can help him."
+weak,(약한)   The strong should protect the weak
+wear,(옷을입다)   I don't want to wear uniforms.
+weather,(날씨)   How's the weather where you are?
+week,(한 주)  How many days are there in a week?
+welcome,(환영하다)  Welcome back. How was the trip?
+well,(잘)  Add the milk and stir well.
+west,(서쪽)  China lies to the west of Korea.
+wet,(젖은)  I was wet to the skin in the rain.
+what,(무엇)  What is the purpose of the gift?
+when,(언제)  When does the next bus arrive?
+where,(어디)   ]Where did you buy this notebook?
+which,(어느(것))  I can not tell which is which.
+white,(하얀색)  A black hen lays white eggs.
+who,(누구)  Who finished first in the race?
+why,(왜)  Why do you worry so much?
+wide,(넓은)  It is wide. It's a wide bed.
+will,(~할것이다)  The party will be at my house.
+win,(이기다)  Our team is bound to win.
+wind,(바람)  A flag flaps in the wind.
+window,(창문)  The woman is wiping the window.
+wing,(날개)  It has strange wings for a dragonfly
+winter,(겨울)  Don't you have much snow in winter?
+with,(~와함께)  Do you want to eat lunch with me?
+woman,(여자)  The woman is baking the bread.
+wonder,(놀라다)  You are punctual for a wonder.
+wood,(나무)  The table is made of wood.
+word,"(낱말,말)  Don't ever say that word again."
+work,(일)  I should be finishing this work.
+world,(세상)  I want to travel around the world.
+write,(쓰다)  Write a story in your mind's eye.
+wrong,"(나쁜,잘못된)    What is wrong with the fan?"
+yeah,"(예 (찬성,긍정))  Yeah, you won."
+year,"(해,1년)  A new school year began today."
+yellow,(노랑색)  Who is this boy in the yellow shirt?
+yes,(네(대답))  Yes. I'd like a glass of water.
+yesterday ,(어제)  My girlfriend and I broke up yesterday.
+yet,(아직)  I have money more and yet more.
+you,(당신)  Are you a doctor?  
+young,(젊은)  There is a young boy in front of the door.
+zero,(영(0))  I don't like this sub-zero weather.
+zoo,(동물원)  The animals are in a zoo.
